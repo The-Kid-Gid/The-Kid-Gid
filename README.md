@@ -1,0 +1,29 @@
+# Hey, I'm Gideon Shaked 👋
+
+**I want to build things that make a difference.** When I program, I'm obsessed with maintainability, extendability, scalability. **I love making stuff that does useful things.** Currently I'm interested in data structures/algorithms, data science, and software design. I'm a high schooler in Miami, FL. I love Linux and free and open-source software (FOSS).
+
+Some of my projects include:
+
+* 🚀 [Nextinspace](https://github.com/The-Kid-Gid/nextinspace): A CLI tool to track rocket launches and other space-related events; it can also be used as a Python library. [OSTechNix article](https://ostechnix.com/print-latest-space-events-with-nextinspace-in-terminal). [![Downloads](https://static.pepy.tech/personalized-badge/nextinspace?period=total&units=none&left_color=grey&right_color=blue&left_text=Downloads)](https://pepy.tech/project/nextinspace)
+
+* 🔬 [LIBS Movement System](https://github.com/libs-movement-system): A 5-axis movement/positioning system for [laser-induced breakdown spectroscopy (LIBS)](https://en.wikipedia.org/wiki/Laser-induced_breakdown_spectroscopy).
+
+* 🧰 [Dotfiles](https://github.com/The-Kid-Gid/dotfiles): Not just your typical dotfiles project. This config incorporates modular, multi-machine design so that I (or you) can be up and running with just a quick `./install-profile <profile>`.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Kid-Gid&show_icons=true&count_private=true&theme=monokai&include_all_commits=true", width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Kid-Gid&layout=compact&theme=monokai", width="325"/> <br>
+</p>
+
+Here's a bit about me:
+
+* 🤙 I like to mountain bike 🚵🏻, sail ⛵, scuba 🤿, and wakeboard.
+* 🏫 I'm in 11th grade.
+* 🛰️ I'm into spaceflight 🧑‍🚀 and rockets 🚀.
+* 🥜 [My last name means almond in Hebrew.](https://translate.google.com/?sl=iw&tl=en&text=%D7%A9%D7%A7%D7%93&op=translate)
+
+Some of my more fun/jokey projects:
+
+* 👨‍🦰 [rickroll-scripts](https://github.com/The-Kid-Gid/rickroll-scripts): Everything's better on the command line, right? Rickroll on the CLI with just a `curl -sL bit.ly/3aHoMAE | bash`.
+
+* ☁️ [twitter-chucknorris-aws](https://github.com/The-Kid-Gid/twitter-chucknorris-aws): Written mostly as an exercise for my [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/d7e01301-1bf6-4ac0-bae3-a6f87f2ccc6c/linked_in_profile) examination, this bot posts Chuck Norris jokes on a schedule! [https://twitter.com/chucknorrisbot1](https://twitter.com/chucknorrisbot1).
