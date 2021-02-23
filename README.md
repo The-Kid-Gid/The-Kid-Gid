@@ -30,3 +30,5 @@ Some of my more fun/jokey projects:
 * 👨‍🦰 [rickroll-scripts](https://github.com/The-Kid-Gid/rickroll-scripts): Everything's better on the command line, right? Rickroll on the CLI with just a `curl -sL bit.ly/3aHoMAE | bash`.
 
 * ☁️ [twitter-chucknorris-aws](https://github.com/The-Kid-Gid/twitter-chucknorris-aws): Written mostly as an exercise for my [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/d7e01301-1bf6-4ac0-bae3-a6f87f2ccc6c/linked_in_profile) examination, this bot posts Chuck Norris jokes on a schedule! [https://twitter.com/chucknorrisbot1](https://twitter.com/chucknorrisbot1).
+
+Reddit: [u/The_Kid_Gid](https://www.reddit.com/user/The_Kid_Gid)
