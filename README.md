@@ -10,10 +10,13 @@ Some of my projects include:
 
 * 🧰 [Dotfiles](https://github.com/The-Kid-Gid/dotfiles): Not just your typical dotfiles project. This config incorporates modular, multi-machine design so that I (or you) can be up and running with just a quick `./install-profile <profile>`.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Kid-Gid&show_icons=true&count_private=true&theme=monokai&include_all_commits=true", width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Kid-Gid&layout=compact&theme=monokai", width="325"/> <br>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=The-Kid-Gid&show_icons=true&count_private=true&theme=monokai&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Kid-Gid&layout=compact&theme=monokai" />
+</a>
+<br><br>
 
 Here's a bit about me:
 
