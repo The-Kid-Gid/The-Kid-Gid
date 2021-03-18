@@ -25,6 +25,8 @@ Here's a bit about me:
 * 🛰️ I'm into spaceflight 🧑‍🚀 and rockets 🚀.
 * 🥜 [My last name means almond in Hebrew.](https://translate.google.com/?sl=iw&tl=en&text=%D7%A9%D7%A7%D7%93&op=translate)
 
+Try my [cURLcard](https://github.com/The-Kid-Gid/cURLcard)!: `curl -sL http://bit.ly/cURLcard`.
+
 Some of my more fun/jokey projects:
 
 * ☁️ [twitter-chucknorris-aws](https://github.com/The-Kid-Gid/twitter-chucknorris-aws): Written mostly as an exercise for my [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/d7e01301-1bf6-4ac0-bae3-a6f87f2ccc6c/linked_in_profile) examination, this bot posts Chuck Norris jokes on a schedule! [https://twitter.com/chucknorrisbot1](https://twitter.com/chucknorrisbot1).
