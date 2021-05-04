@@ -1,6 +1,6 @@
 # Hey, I'm Gideon Shaked 👋
 
-**I want to build things that make a difference.** When I program, I'm obsessed with generality, maintainability, and extendability. **I love making stuff that does useful things.** Currently I'm interested in data structures/algorithms, data science, and software design. I'm a high schooler in Miami, FL. I love Linux and free and open-source software (FOSS).
+**I want to build things that make a difference.** When I program, I'm obsessed with generality, maintainability, and extendability. **I love making stuff that does useful things.** Currently I'm interested in data science/machine learning, bioinformatics, and software design. I'm a high schooler in Miami, FL. I love Linux and free and open-source software (FOSS).
 
 Some of my projects include:
 
