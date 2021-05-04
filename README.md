@@ -14,7 +14,7 @@ Some of my projects include:
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=The-Kid-Gid&show_icons=true&count_private=true&theme=monokai&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Kid-Gid&layout=compact&theme=monokai" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Kid-Gid&hide=ti%20program,markdown&layout=compact&theme=monokai" />
 </a>
 <br><br>
 
