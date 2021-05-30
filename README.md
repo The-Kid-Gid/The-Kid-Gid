@@ -10,13 +10,13 @@
 
 ## Projects
 
-* 🚀 [Nextinspace](https://github.com/The-Kid-Gid/nextinspace): A CLI tool to track rocket launches and other space-related events; it can also be used as a Python library. 
+* 🚀 [Nextinspace](https://github.com/not-stirred/nextinspace): A CLI tool to track rocket launches and other space-related events; it can also be used as a Python library. 
   *  [OSTechNix article](https://ostechnix.com/print-latest-space-events-with-nextinspace-in-terminal).
   *  [![Downloads](https://static.pepy.tech/personalized-badge/nextinspace?period=total&units=none&left_color=grey&right_color=blue&left_text=Downloads)](https://pepy.tech/project/nextinspace)
 
 * 🔬 [LIBS Movement System](https://github.com/libs-movement-system): A 5-axis movement/positioning system for [laser-induced breakdown spectroscopy (LIBS)](https://en.wikipedia.org/wiki/Laser-induced_breakdown_spectroscopy).
 
-* 🧰 [Dotfiles](https://github.com/The-Kid-Gid/dotfiles): Not just your typical dotfiles project. This config incorporates modular, multi-machine design so that I (or you) can be up and running with just a quick `./install-profile <profile>`.
+* 🧰 [Dotfiles](https://github.com/not-stirred/dotfiles): Not just your typical dotfiles project. This config incorporates modular, multi-machine design so that I (or you) can be up and running with just a quick `./install-profile <profile>`.
 
 ## Other
 
@@ -47,9 +47,9 @@
   <summary><b>🤣 Some of my more fun/jokey projects</b></summary>
   
   <ul>
-  <li><p>☁️ <a href="https://github.com/The-Kid-Gid/twitter-chucknorris-aws">twitter-chucknorris-aws</a>: Written mostly as an exercise for my <a href="https://www.youracclaim.com/badges/d7e01301-1bf6-4ac0-bae3-a6f87f2ccc6c/linked_in_profile">AWS Certified Cloud Practitioner</a> examination, this bot posts Chuck Norris jokes on a schedule! <a href="https://twitter.com/chucknorrisbot1">https://twitter.com/chucknorrisbot1</a>.</p>
+  <li><p>☁️ <a href="https://github.com/not-stirred/twitter-chucknorris-aws">twitter-chucknorris-aws</a>: Written mostly as an exercise for my <a href="https://www.youracclaim.com/badges/d7e01301-1bf6-4ac0-bae3-a6f87f2ccc6c/linked_in_profile">AWS Certified Cloud Practitioner</a> examination, this bot posts Chuck Norris jokes on a schedule! <a href="https://twitter.com/chucknorrisbot1">https://twitter.com/chucknorrisbot1</a>.</p>
   </li>
-  <li><p>👨‍🦰 <a href="https://github.com/The-Kid-Gid/rickroll-scripts">rickroll-scripts</a>: Everything&#39;s better on the command line, right? Rickroll on the CLI with just a <code>curl -sL bit.ly/3aHoMAE | bash</code>.</p>
+  <li><p>👨‍🦰 <a href="https://github.com/not-stirred/rickroll-scripts">rickroll-scripts</a>: Everything&#39;s better on the command line, right? Rickroll on the CLI with just a <code>curl -sL bit.ly/3aHoMAE | bash</code>.</p>
   </li>
   </ul>
 </details>
