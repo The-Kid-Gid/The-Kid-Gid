@@ -27,7 +27,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=not-stirred&show_icons=true&count_private=true&theme=monokai&include_all_commits=true" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-stirred&hide=ti%20program,markdown,java&layout=compact&theme=monokai" /></a>
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-stirred&hide=ti%20program,markdown,java,tex&layout=compact&theme=monokai" /></a>
 </details>
 
 <details>
