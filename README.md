@@ -38,7 +38,7 @@
 	
   <ul>
   <li>🤙 I like to mountain bike 🚵🏻, sail ⛵, scuba 🤿, and wakeboard.</li>
-  <li>🏫 I'm in 11th grade.</li>
+  <li>🏫 I'm in 12th grade.</li>
   <li>🛰️ I'm into spaceflight 🧑‍🚀 and rockets 🚀.</li>
   <li><a href="https://translate.google.com/?sl=iw&tl=en&text=%D7%A9%D7%A7%D7%93&op=translate">🥜 My last name means almond in Hebrew.</a></li>
   </ul>
