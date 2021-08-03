@@ -14,8 +14,9 @@
   *  [OSTechNix article](https://ostechnix.com/print-latest-space-events-with-nextinspace-in-terminal).
   *  [![Downloads](https://static.pepy.tech/personalized-badge/nextinspace?period=total&units=none&left_color=grey&right_color=blue&left_text=Downloads)](https://pepy.tech/project/nextinspace)
 
-* 🦾 [PALMS (Precise Acquisition LIBS Movement Software)](https://github.com/palms-project/palms): A 5-axis positioning system that optimizes LIBS by replacing human hands with a robotic arm to ensure high standards of data quality, efficiency, replicability, and safety.
+* 🦾 [PALMS (Precise Acquisition LIBS Movement Software)](https://github.com/palms-project/palms): A user-friendly control software for multi-axial LIBS robotic positioning systems
   * Presented at the 2021 Junior Science, Engineering and Humanities Symposium at the University of Florida
+  * Optimizes LIBS by replacing human hands with a robotic positioning system to ensure high standards of data quality, efficiency, replicability, and safety.
   * [LIBS—Laser Induced Breakdown Spectroscopy](https://en.wikipedia.org/wiki/Laser-induced_breakdown_spectroscopy)—a chemical analysis technology that uses a short laser pulse to create a micro-plasma on a sample surface and determine its elemental composition
 
 * 🧰 [Dotfiles](https://github.com/not-stirred/dotfiles): Not just your typical dotfiles project. This config incorporates modular, multi-machine design so that I (or you) can be up and running with just a quick `./install-profile <profile>`.
